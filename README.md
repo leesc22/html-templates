@@ -11,4 +11,4 @@ Categories:
 
 ## Contributing
 
-See [the contributing guide](CONTRIBUTING.MD).
+See [the contributing guide](CONTRIBUTING.md).
